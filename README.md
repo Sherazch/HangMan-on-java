@@ -1,2 +1,2 @@
 # HangMan-on-java
-It was my first semester project using Java GUI during Bachelors in Software Engineering at NUST,Pakistan
+HangMan game using GUI in Java programming language
